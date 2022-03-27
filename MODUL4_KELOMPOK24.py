@@ -73,8 +73,7 @@ def masuk(x):
             print(f"SELAMAT DATANG {x}")
             user()
             break;
-        else:
-            print("ID BELUM TERDAFTAR")
+        
             
         
 masuk(input("MASUKAN NAMA: "))
